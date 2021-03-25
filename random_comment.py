@@ -1,0 +1,3 @@
+COMMENT = [
+":ogo: | TheMisterSenpai"
+]
