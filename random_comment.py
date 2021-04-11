@@ -1,3 +1,4 @@
 COMMENT = [
-":ogo: | TheMisterSenpai"
+  ":ogo: | TheMisterSenpai",
+  "каво произошло только что | Циферка"
 ]
